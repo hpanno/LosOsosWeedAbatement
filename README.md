@@ -26,6 +26,7 @@ https://dl.dropboxusercontent.com/u/151188090/LosOsosWeedAbatement.pdf
 <br>'+'
 <br>Take a photo
 <br>[you can leave the default placemark name]
+<br>You can enter in a Description as you see fit
 <br>Go back to Map
 
 
