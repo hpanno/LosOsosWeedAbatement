@@ -39,5 +39,4 @@ https://dl.dropboxusercontent.com/u/151188090/LosOsosWeedAbatement.pdf
 <br>Select 'GPX'
 <br>Export to: 'Mail'
 <br>'Export'
-
-<br><br>TO: my email
+<br> TO: my email
