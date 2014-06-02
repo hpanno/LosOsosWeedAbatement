@@ -36,8 +36,10 @@ https://dl.dropboxusercontent.com/u/151188090/LosOsosWeedAbatement.pdf
 <br>'Export Data (KML/GPX)'
 <br>File: leave default 'LosOsosWeedAbatement'+[_INITIALS]
   <rb>i.e. LosOsosWeedAbatement_HP
-<br>Select 'GPX'
+<br>Select 'KML'
 <br>Export to: 'Mail'
-<br>'Export'
-<br> TO: my email
-<br>Repeat process and send a CSV as well
+<br>Select: 'Export'
+<br>Select: 'Orignial Size'
+<br>Select: 'Export'
+<br>To: my email
+
