@@ -6,6 +6,8 @@ Los Osos Weed Abatement
 
 
 https://dl.dropboxusercontent.com/u/151188090/LosOsosWeedAbatement.pdf
+<br>https://dl.dropboxusercontent.com/u/38388156/15weeds_east.pdf
+<br>https://dl.dropboxusercontent.com/u/38388156/15weeds_north.pdf
 
 
 
