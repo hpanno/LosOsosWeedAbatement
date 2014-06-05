@@ -49,8 +49,8 @@ https://dl.dropboxusercontent.com/u/151188090/LosOsosWeedAbatement.pdf
 
 
 
-<b><u>Working with the data</b></u>
-<br>Import each data set into QGIS and save as a .shp
+<b>::Working with the data::</b>
+<br>Import each kml into QGIS and save as a .shp
 <br>Import all data into Arc and merge to one file. 
 <br>Perform a join from the points to the parcel layer. 
   <br> make sure that it is looking for the parcel in which the point sits inside. 
@@ -58,6 +58,7 @@ https://dl.dropboxusercontent.com/u/151188090/LosOsosWeedAbatement.pdf
 <br>Using X Tools Pro: table operations> export table as MSWord Doc.
 <be>The table will open automatcally in MSword. Select the APN column; in the 'Home' ribbon select 'Conditional Formatting'; 'Highlight cell rules'; 'duplicate' --> go through and confirm/validate these duplicates; delete any duplicated entires.  
 
-
+<br>::In GoogleEarth::
+<br>Drag all KMLs into Google Earth, create a new folder, click and drag the KMLs into the folder; Right click the folder you created; save as. 
 
 
