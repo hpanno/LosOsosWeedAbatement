@@ -49,7 +49,7 @@ https://dl.dropboxusercontent.com/u/151188090/LosOsosWeedAbatement.pdf
 
 
 
-<b>::Working with the data::</b>
+<b>Working with the data</b>
 <br>Import each kml into QGIS and save as a .shp
 <br>Import all data into Arc and merge to one file. 
 <br>Perform a join from the points to the parcel layer. 
