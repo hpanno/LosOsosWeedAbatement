@@ -1,7 +1,7 @@
 LosOsosWeedAbatement
 ====================
 
-Los Osos Weed Abatement
+Los Osos Weed Abatement PDFMap Links:
 
 
 
@@ -12,9 +12,9 @@ https://dl.dropboxusercontent.com/u/151188090/LosOsosWeedAbatement.pdf
 
 
 
+<b><u>PDFMaps</b></u>
 
-
-<b>Uploading PDF Map to App:</b>
+<br><b>Uploading PDF Map to App:</b>
 <br>Select '+' 
 <br>Type/Paste link from above into URL field
 
@@ -44,4 +44,13 @@ https://dl.dropboxusercontent.com/u/151188090/LosOsosWeedAbatement.pdf
 <br>Select: 'Orignial Size'
 <br>Select: 'Export'
 <br>To: my email
+
+
+
+
+
+<b><u>Working with the data</b></u>
+
+
+
 
