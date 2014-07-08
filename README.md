@@ -54,9 +54,9 @@ Select the following fields:
 
 		APN, APN-9, OWNER, ADDRESS-1, CITY, STATE, ZIP, PLUS_4, SITUS_1, STREET_1, TYPE_1
   
-Using X Tools Pro: table operations> export table as MSWord Doc. The table will open automatically in MSword. Select the APN column; in the 'Home' ribbon select 'Conditional Formatting'; 'Highlight cell rules'; 'duplicate' --> go through and confirm/validate these duplicates; delete any duplicated entires.
+Using X Tools Pro: Table Operations> Export Table as MSWord Doc. The table will open automatically in MSword. Select the APN column; in the 'Home' ribbon select 'Conditional Formatting'; 'Highlight Cell Rules'; 'Duplicate' --> go through and confirm/validate these duplicates; delete any duplicated entires.
 
 
 ######In GoogleEarth 
 ---
-Drag all KMLs into 'Temporary Places' in Google Earth, Right click the Temporary Places folder and select  save place as. Send this KMZ to executive secretary.
+Drag all KMLs into 'Temporary Places' in Google Earth, Right click the Temporary Places folder and select save place as. Send this KMZ to executive secretary.
