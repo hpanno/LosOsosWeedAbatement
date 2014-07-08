@@ -49,12 +49,12 @@ i.e. LosOsosWeedAbatement_HP
 Import each kml into QGIS and save as a .shp. 
 Import all data into Arc and merge to one file. 
 Perform a join from the points to the parcel layer. 
-make sure that it is looking for the parcel in which the point sits inside. 
+Make sure that it is looking for the parcel in which the point sits. 
 Select the following fields:
 
 		APN, APN-9, OWNER, ADDRESS-1, CITY, STATE, ZIP, PLUS_4, SITUS_1, STREET_1, TYPE_1
   
-Using X Tools Pro: table operations> export table as MSWord Doc. The table will open automatcally in MSword. Select the APN column; in the 'Home' ribbon select 'Conditional Formatting'; 'Highlight cell rules'; 'duplicate' --> go through and confirm/validate these duplicates; delete any duplicated entires.
+Using X Tools Pro: table operations> export table as MSWord Doc. The table will open automatically in MSword. Select the APN column; in the 'Home' ribbon select 'Conditional Formatting'; 'Highlight cell rules'; 'duplicate' --> go through and confirm/validate these duplicates; delete any duplicated entires.
 
 
 ######In GoogleEarth 
