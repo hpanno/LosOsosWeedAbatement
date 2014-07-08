@@ -1,0 +1,8 @@
+####Los Osos Weed Abatement Tips, Tricks, and Heads-up
+---
+- "It’s no big deal for this year, but for the purposes of next year, I’m wondering if we can have the pictures show up smaller. Right now, they show up in a large poster size and I can scroll around the picture. It makes it a little more tricky (and less polished) when showing an owner what to clean up as I have to scroll left and then down and then left again, lol. I don’t know if that’s because the Inspector’s took the picture and exported them to you that large or if that’s something the program does, but maybe we can make a note about it for next year."
+
+- If possible, use only one device. In 2014, there were multiple inspectors and over the course of the 1 week inspection period there were multiple deviced used. In theory, this isn't a bad thing. In fact, it would be great if inspectors could use their personal device - but the issue comes from the inspectors not knowing where the others have left off and where they should start. In this event, expect to make some maps showing what areas have been covered. In my experience it pays to keep up with the data as it comes in because you will be asked questions on the fly wondering what areas need to be covered. 
+
+- Turns out, many empty lots will be weed or address violators. This year, the insoectors came back to see if I could provide an address for them so that they could more easily find their way back to re-inspect. The issue here lies in that these empty lots do not have an address - only a situs, which isn't helpful in this circumstance. So, be prepared to drop these points on a map for the inspector.  
+ 
